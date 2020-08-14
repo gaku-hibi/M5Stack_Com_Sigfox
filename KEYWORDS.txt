@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+M5ComSigfox		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# M5ComSigfox
+begin	KEYWORD2
+echo	KEYWORD2
+sleep	KEYWORD2
+wakeup	KEYWORD2
+getId	KEYWORD2
+getPac	KEYWORD2
+getTemperature	KEYWORD2
+getVoltage	KEYWORD2
+publicKey	KEYWORD2
+uplink	KEYWORD2
+downlink	KEYWORD2
+logSerialEnable	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+# Command status
+NO_ERROR	LITERAL1
+ERR_SERIAL_CLOSED	LITERAL1
+ERR_INVALID_PARAMETER	LITERAL1
